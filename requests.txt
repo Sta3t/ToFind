@@ -1,0 +1,6 @@
+argparse
+beautifulsoup4
+lxml
+pandas
+requests
+openpyxl
